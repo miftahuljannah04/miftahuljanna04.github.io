@@ -1,0 +1,18 @@
+<style type="text/css">
+	hl{
+		color:red;
+	}
+	button{
+		color:yellow;
+		background-color: red;
+	}
+
+	p#satu{
+		color:red;
+		background:yellow;
+	 }
+	p#dua{
+		color:yellow;
+		background: red;
+	 }	
+    </style>
